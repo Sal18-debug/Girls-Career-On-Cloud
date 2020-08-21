@@ -1,8 +1,4 @@
-# GirlsCareerOnCloud
-
-## What is your project Name?
-
-The name of this project is Girls Career on Cloud 
+# Girls Career On Cloud
 
 ## Who are the team members?
 
@@ -17,7 +13,7 @@ This web app is being built with frontend using HTML, CSS and JavaScript while t
 Girls Career on cloud is a web-based application tailored to rural communities in helping them set up virtual education centers for young girls in order to improve their education. Virtual classrooms
 Girls Career on Cloud is a web-based application tailored to helping young girls in rural communities receive further education. This education would be in the format of virtual classrooms set up by organizers and teachers to teach a variety of subjects.
   
-## How do you get the idea to build the project?
+## How did you get the idea to build the project?
 
 We got the idea for this application project by reading online news about how efforts in the world have hit obstacles in bringing more education to young girls in rural communities. While males are usually supported in their efforts to seek higher education, young girls in these communities are frequently not given the same opportunity and support in this endeavor. In these communities, limited finances have pushed them to only send their best men to urban centers for further education. As such, we sought to think about a potential solution or at least an avenue for these girls to attain more education. Thus, we came up with the idea of a simple website that can help rural communities set up virtual and onsite education centers tailored to these young girls.
 
@@ -29,6 +25,16 @@ The purpose of this website is to assist rural communities in educating their yo
 
 The purpose of this website is to help rural communities in educating their young girls by providing a safe, virtual environment to reach the same educational level as their male peers. This website creates virtual classrooms for teachers and students. The website is monitored by educational organizations in order to maintain educational standards, and provide resources for these students for further education and future career paths.
 
+## How does _Girls Career on Cloud_ assuage a multitude of negative implications COVID-19 has on society through innovative solutions?
+
+Girls Career on Cloud Project will help rural communities around the world who are struggling during this current pandemic. This project is the work of future developers who hope to create projects that limit the negative effects of COVID-19 on different communities and regions. Many students around the world are suffering from a lack of further education due to COVID-19. However, projects and applications such as these can help reduce such a burden on students, especially young girls in rural communities. 
+
+By creating and maintaining this website, we are hopeful in helping young female students get the education they deserve in order to enter the workforce and achieve higher careers. By achieving higher careers with the higher education they receive, these young girls would gain future jobs and careers that not only help them but also their local communities. Better jobs as a result of more education and training lead to better purchasing power, more income to more people, and a chance to reduce poverty in communities by helping create more experts in their fields.
+
+Virtual education not only improves education in the short-term, but it also leads to more benefits long-term.  Furthermore, virtual education can be a money-saving endeavor. More students in virtual education spaces can reduce the need to construct large education centers in faraway rural communities, which also carries additional costs. These additional costs such as transportation, roads, new education, and social buildings, and other expenses can be avoided if virtual education is sought as a solution in response to the pandemic. 
+
+So, projects such as this one are hoping to bring more affordable education to demographics that truly need it in order to have better futures and to help nations and regions to save their wealth through the best they can.
+
 ## How is it beneficial to society?
 
 Girls Carrer on Cloud is beneficial to society as it seeks to help educate young female students in order for them to have better futures. More education and training for these bright students can help achieve careers, which brings about more benefits to these communities. Better educated girls can help build stronger families, earn higher wages, reduce poverty, and generally improve the workings of local economies as a result of higher education.
@@ -36,7 +42,7 @@ Girl's Career on Cloud is beneficial to society in many ways. The webpage seeks 
  
 ## Challenges we ran into
 
-One big challenge We faced when developing this project is how to connect web portals for teachers, students, tutors and organizers on the website. I had two minds about this particular issue. Should we keep these screens separate while coding these segments of the project or should we find a solution to join these portals together in a template to simplify the issue. Generally, the issue of coding a more complex web page brings about more complications, no matter how a skill a programmer is with any programming language or project suite.
+One big challenge we faced when developing this project is how to connect web portals for teachers, students, tutors and organizers on the website. We had two minds about this particular issue. Should we keep these screens separate while coding these segments of the project or should we find a solution to join these portals together in a template to simplify the issue. Generally, the issue of coding a more complex web page brings about more complications, no matter how a skill a programmer is with any programming language or project suite.
 One significant challenge we faced as a team when developing this project was figuring how to connect web portals for teachers, students, tutors and organizers for the web application. We were conflicted on this particular issue. We discuss if we should keep these screens separate while coding these segments or should the team find a solution to join these portals together in a template to simplify the issue. The matter with coding is that a more complex web page brings generally more complications in coding to any programmer of any skill level no matter the programming or project suite.
 
 A second challenge we faced as a team was coordinating and adjusting to the amount of effort and time to make sure our code was functional and complete. There was a significant amount of time spent double-checking, and at one point, we had to start over with a different framework to complete this project. Many times, we face significant challenges that delay or completely stop projects which lead to discouragement. Still, when dealing with a passion project or work that must be complete, it is best for everyone to keep pushing through and finish the work to the best of your abilities.  
