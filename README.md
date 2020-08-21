@@ -6,7 +6,7 @@ The name of this project is Girls Career on Cloud
 
 ## Who are the team members?
 
-Sally Jain, Sonnet Xu, Marthe-Sarah Nkambou Tchunkuo, Muhammad Faheem, Amit Dandawate
+Sally Jain, Sonnet Xu, Marthe-Sarah Nkambou Tchunkuo
 
 ## What languages is the app built with?
 
