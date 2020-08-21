@@ -1,0 +1,48 @@
+body{
+  background-color: white;
+  color:purple;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  text-align: center;
+}
+.space{
+  text-align: 75%;
+}
+
+hr{
+    color:grey;
+}
+form input{
+  background-color: #ff8c00 ;
+  color: white;
+  width:140px;
+  height:40px;
+  font-size: 15px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+input{
+  width:300px;
+  height:50px;
+}
+button{
+  background-color:  #ff8c00 ;
+  color: white;
+  height:50px;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 10px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin-right:20px;
+	border:0px;
+}
+.header{
+	text-align:center;
+	background-color:  #ff8c00 ;
+}
+button:hover {
+  background-color: purple;
+}
+
+.heading{
+  padding: 25px;
+}

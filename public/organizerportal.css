@@ -1,0 +1,61 @@
+body{
+  background-color: white;
+  color:purple;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+h4{
+  margin-bottom: 0px;
+}
+.person{
+  background-color:  #ff8c00 ;
+  color: white;
+  width: 100%;
+  height: 20%;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 10px;
+	margin-bottom: 10px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+button{
+  background-color:  #ff8c00 ;
+  color: white;
+  height:50px;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 10px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin-right:20px;
+	border:0px;
+}
+.header{
+	text-align:center;
+	background-color: #ff8c00;
+}
+button:hover {
+  background-color: purple;
+}
+#list{
+	padding: 30px;
+  width: 60%;
+  border-radius: 10px;
+	background-color: #ff8c0067;
+	margin:auto;
+	margin-top:20px;
+}
+input{
+	border-top: 0px;
+	border-right: 0px;
+	border-left: 0px;
+	border-bottom-color: purple;
+	border-radius:8px;
+	background-color: rgba(128, 0, 128, 0.11);
+}
+.info{
+	text-align:center;
+}
+hr{
+    border-color:purple;
+}
+

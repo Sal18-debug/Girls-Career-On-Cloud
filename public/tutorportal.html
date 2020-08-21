@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="tutorportal.css">
+	<script src="script.js"></script>
+</head>
+<body>
+	<img src="Images/logo.png" style="width:100px; height:100px; display: block;margin-left: auto;margin-right: auto;">
+  <h1 style="text-align:center;"> Tutor Portal</h1>
+	<div class="header"><a href="chat.html"><button>Chat</button></a>
+
+  <a href="login.html"><button>Log Out</button></a></div>
+	<div id="list">
+    <div style="width:48%; float:left;">
+      <h2> Add Students: </h2>
+      <input type="text" name="searchorganizer">
+      <button type="submit">Search</button>
+      <br>
+      <br>
+    </div>
+    <div style="width:48%; float:right;">
+      <img src="Images/tutor_portal.png" style="width:100px; height:100px; display: block;margin-left: auto;margin-right: auto;">
+    </div>
+    <br>
+    <br>
+    <button class="person" id="first" name="newperson" onclick="showinfo('infomillie');">Millie Collins</button>
+    <br>
+    <div id="infomillie" style="display:none;">
+      <hr>
+      <h4>Grade: </h4>
+      <p class="grade">Grade 9</p>
+      <h4>Subjects: </h4>
+      <p class="subjects">Math, English</p>
+      <div class="assignments"> <a href="assignments.html"><button>Assignments</button></a>
+    </div>
+    <br>
+	</div>
+  <button class="person"  name="person" id="second" onclick="showinfo('infobarbara');">Barbara Turner</button>
+  <br>
+	<div id="infobarbara" style="display:none;">
+		<hr>
+		<h4>Grade: </h4>
+		<p class="grade">Grade 6</p>
+		<h4>Subjects: </h4>
+		<p class="subjects">History, English</p>
+		<div class="assignments"> <a href="assignments.html"><button>Assignments</button></a></div>
+		<br>
+
+	</div>
+  <button class="person" name="people" id="third" onclick="showinfo('infojasmin');">Jasmin Ramirez</button>
+	<br>
+	<div id="infojasmin" style="display:none;">
+		<hr>
+		<h4>Grade: </h4>
+		<p class="grade">Grade 12</p>
+		<h4>Subjects: </h4>
+		<p class="subjects">Chemestry, IT</p>
+		<div class="assignments"> <a href="assignments.html"><button>Assignments</button></a></div>		
+	</div>
+	</div>
+
+</body>
+</html>

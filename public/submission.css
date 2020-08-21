@@ -1,0 +1,23 @@
+body{
+  background-color: white;
+  color:purple;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+button{
+  background-color:  #ff8c00 ;
+  color: white;
+  width:140px;
+  height:40px;
+  padding: 5px;
+  font-size: 5px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+input{
+  width:500px;
+  height:500px;
+}
+button:hover {
+  background-color: purple;
+}
+

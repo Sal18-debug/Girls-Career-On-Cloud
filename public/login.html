@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="login.css">
+	<script src="script.js"></script>
+</head>
+<body onload="showstudent()"> 
+      <img src="Images/logo.png" style="width:100px; height:100px; display: block;margin-left: auto;margin-right: auto;">
+      <h1 style="text-align:center">Login</h1>
+			<h3 style="color:#ff8c00">Login as a student, a teacher, an organizer or a tutor.</h3>
+			<div class="header"><a href="index.html"><button>Home</button></a><button onclick="showstudent()">Student Login</button>
+      <button onclick="showteacher()">Teacher Login </button>
+      <button onclick="showorganizer()">Organizer Login</button>
+      <button onclick="showtutor()">Tutor Login</button></div><br>
+      <div class = "form">
+				<form action="studentportal.html" id="studentform" style="display:none;">
+        	<label for="email">Email:</label><br>
+       		<input type= "email" id="sEmail" name="email"><br>
+        	<label for="password" id="password" name="password">Password:</label><br>
+        	<input type= "password"><br><br>
+					<button type="submit" style="margin-right:0px">Student Login</button>
+				</form>
+				<form action="teacherportal.html" id="teacherform" style="display:none;">
+        	<label for="email">Email:</label><br>
+       		<input type= "email" id="tEmail" name="email"><br>
+        	<label for="password" id="password" name="password">Password:</label><br>
+        	<input type= "password"><br><br>
+					<button type="submit" style="margin-right:0px">Teacher Login</button>
+				</form>
+				<form action="organizerportal.html" id="organizerform" style="display:none;">
+        	<label for="email">Email:</label><br>
+       		<input type= "email" id="oEmail" name="email"><br>
+        	<label for="password" id="password" name="password">Password:</label><br>
+        	<input type= "password"><br><br>
+					<button type="submit" style="margin-right:0px">Organizer Login</button>
+				</form>
+				<form action="tutorportal.html" id="tutorform" style="display:none;">
+        	<label for="email">Email:</label><br>
+       		<input type= "email" id="tuEmail" name="email"><br>
+        	<label for="password" id="password" name="password">Password:</label><br>
+        	<input type= "password"><br><br>
+					<button type="submit" style="margin-right:0px">Tutor Login</button>
+				</form>
+      </div>
+			<br>
+      <h5>Register to be a teacher, student, tutor, or organizer.</h5>
+      <a href="registration.html"><button name="Register" style="margin-right:0px">Register Here!</button></a>
+</body>
+</html>

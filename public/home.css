@@ -1,0 +1,35 @@
+body{
+  background-color: white;
+  color:purple;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  text-align: center;
+}
+
+button{
+  background-color:  #ff8c00 ;
+  color: white;
+  height:50px;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 10px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin-right:20px;
+	border:0px;
+}
+.form{
+  padding: 5px;
+  width: 300px;
+  height:40px;
+  border-radius: 10px;
+}
+button:hover {
+  background-color: purple;
+}
+.header{
+	text-align:center;
+	background-color:#ff8c00;
+}
+
+.main-text{
+  padding: 50px;
+}

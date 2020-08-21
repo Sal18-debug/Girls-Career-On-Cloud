@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="organizerportal.css">
+	<script src="script.js"></script>
+</head>
+<body>
+	<img src="Images/logo.png" style="width:100px; height:100px; display: block;margin-left: auto;margin-right: auto;">
+  <h1 style="text-align:center;"> Organizer Portal</h1>
+	<div class="header"><a href="chat.html"><button>Chat</button></a>
+   <a href="organizerportal.html"><button>Calendar </button></a>
+  <a href="login.html"><button>Log Out</button></a></div>
+	<div id="list">
+  <h2> Add Organizers: </h2>
+	<input type="text" name="searchorganizer">
+	<button type="submit">Search</button>
+  <br>
+  <br>
+  <button class="person" id="first" name="newperson" onclick="showinfo('infoandrew');">Andrew Nguyen</button>
+  <br>
+	<div id="infoandrew" style="display:none;">
+		<hr>
+		<h4>Organization: </h4>
+		<p class="organization">UNICEF</p>
+		<h4>Role: </h4>
+		<p class="role">Ambassador</p>
+	</div>
+  <button class="person"  name="person" id="second" onclick="showinfo('infodiamond');">Diamond Zane</button>
+  <br>
+	<div id="infodiamond" style="display:none;">
+		<hr>
+		<h4>Organization: </h4>
+		<p class="organization">UNESCO</p>
+		<h4>Role: </h4>
+		<p class="role">Partnerships manager</p>
+	</div>
+  <button class="person" name="people" id="third" onclick="showinfo('inforaven');">Raven Nazer</button>
+	<br>
+	<div id="inforaven" style="display:none;">
+		<hr>
+		<h4>Organization: </h4>
+		<p class="organization">Association for Childhood Education International</p>
+		<h4>Role: </h4>
+		<p class="role">Ambassador</p>
+	</div>
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+body{
+  color:black;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.leave{
+    background-color: #ff8c00 ;
+    color: white;
+    text-decoration: none;
+    width:250px;
+    height:250px;
+    padding: 10px;
+    font-size: 15px;
+		font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    border-radius: 10px;
+}
+button:hover {
+  background-color: purple;
+}
+
+.main-text{
+  text-align: center;
+}
